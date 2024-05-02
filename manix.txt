@@ -1,0 +1,4 @@
+Spacing (x, y, z): 0.48828125 0.48828125 0.7000120000000152
+Dimensions (x, y, z): 512 512 460
+window_level: 100.0
+window_width: 500.0
